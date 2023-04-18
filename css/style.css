@@ -1,5 +1,5 @@
 body {
-    background-image: url(images/body.jpg);
+    background-image: url(../images/body.jpg);
     margin: 0;
     padding: 0;
     align-content: center;
@@ -20,6 +20,9 @@ body {
 .row {
     border-style: dashed;
     color: fuchsia;
+}
+.display{
+    display: flex;
 }
 
 .form {
