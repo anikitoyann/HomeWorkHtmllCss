@@ -1,0 +1,59 @@
+body {
+    background-image: url(images/body.jpg);
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
+.logo {
+    margin-top: 35px;
+    font-size: 650px;
+    align-content: center;
+    margin-left: 145px;
+}
+
+.menu {
+    font-size: 45px;
+    letter-spacing: 8px;
+    margin-left: 100px;
+}
+
+.row {
+    border-style: dashed;
+    color: fuchsia;
+}
+
+.form {
+    width: 900px;
+    height: 300px;
+    border: 2px solid whitesmoke;
+    margin-bottom: 12px;
+    margin-left: 85px;
+    margin-top: 35px;
+    padding-top: 25px;
+}
+.form1 {
+    width: 950px;
+    height: 600px;
+    border: 2px dashed silver;
+    margin-bottom: 12px;
+    margin-left: 85px;
+    margin-top: 35px;
+    padding-top: 25px;
+}
+.table {
+    font-size: 25px;
+    padding:5px;
+    color: black;
+}
+.form3{
+    padding-top: 0;
+    width: 900px;
+    height: 400px;
+    margin-left: 170px;
+}
+.smallForm {
+    width: 60px;
+    height: 5px;
+    border: 2px dashed;
+    padding: 15px;
+}
