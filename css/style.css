@@ -42,6 +42,12 @@ body {
     margin-top: 35px;
     padding-top: 25px;
 }
+.textStyle{
+    background-color: snow;width: 150px;height: 45px;border: 2px dashed black;padding-left: 135px;margin-left: 55px;
+}
+.texyAreaStyle{
+"background-color: snow;width: 340px;height: 95px;border: 2px dashed black;padding-left: 135px;margin-left: 55px;
+}
 
 .form1 {
     width: 950px;
