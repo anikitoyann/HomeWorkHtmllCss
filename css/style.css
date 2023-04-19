@@ -4,6 +4,7 @@ body {
     padding: 0;
     align-content: center;
 }
+
 .logo {
     margin-top: 35px;
     font-size: 650px;
@@ -17,11 +18,18 @@ body {
     margin-left: 100px;
 }
 
+.menuStyle {
+    font-size: 85px
+}
+
 .row {
+    width: 1050px;
     border-style: dashed;
     color: fuchsia;
+    margin-left: 25px;
 }
-.display{
+
+.display {
     display: flex;
 }
 
@@ -34,6 +42,7 @@ body {
     margin-top: 35px;
     padding-top: 25px;
 }
+
 .form1 {
     width: 950px;
     height: 500px;
@@ -43,17 +52,20 @@ body {
     margin-top: 35px;
     padding-top: 25px;
 }
+
 .table {
     font-size: 25px;
-    padding:5px;
+    padding: 5px;
     color: black;
 }
-.form3{
+
+.form3 {
     padding-top: 0;
     width: 900px;
     height: 400px;
     margin-left: 170px;
 }
+
 .smallForm {
     width: 60px;
     height: 5px;
